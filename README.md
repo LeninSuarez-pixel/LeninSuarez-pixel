@@ -11,13 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=0D1117" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=A855F7&style=for-the-badge&label=Visitas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Perú-%F0%9F%87%B5%F0%9F%87%AA-A855F7?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Perú-%F0%9F%87%B5%F0%9F%87%AA-A855F7?style=for-the-badge&labelColor=#FF0000" />
 </div>
 
 <br/>
